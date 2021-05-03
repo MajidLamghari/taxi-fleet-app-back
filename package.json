@@ -1,0 +1,28 @@
+{
+  "name": "taxi-fleet-app-back",
+  "version": "1.0.0",
+  "description": "Taxi fleet application bakcend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajidLamghari/taxi-fleet-app-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajidLamghari/taxi-fleet-app-back/issues"
+  },
+  "homepage": "https://github.com/MajidLamghari/taxi-fleet-app-back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
